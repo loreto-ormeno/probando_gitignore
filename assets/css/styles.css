@@ -1,0 +1,13 @@
+body {
+    font-family: Verdana;
+}
+
+a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+a:visited {
+    color:green;
+    text-decoration: none;
+}
